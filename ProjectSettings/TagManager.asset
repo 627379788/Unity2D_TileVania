@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Bouncing
+  - Goober
+  - Hazards
+  - Gun
+  - Bullet
+  - Exit
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_Tilemap
+    uniqueID: 3947446369
+    locked: 0
+  - name: Water_Tilemap
+    uniqueID: 2985148225
+    locked: 0
+  - name: Platforms_Tilemap
+    uniqueID: 1334992947
+    locked: 0
+  - name: Climbing_Tilemap
+    uniqueID: 2047681739
+    locked: 0
+  - name: Hazards
+    uniqueID: 199883463
+    locked: 0
+  - name: Exit
+    uniqueID: 3854716305
+    locked: 0
+  - name: Goober
+    uniqueID: 4158806941
+    locked: 0
+  - name: Gun
+    uniqueID: 699145641
+    locked: 0
+  - name: Player
+    uniqueID: 2685636217
+    locked: 0
+  - name: Bullet
+    uniqueID: 3759867069
+    locked: 0
+  - name: Interact
+    uniqueID: 3230636343
+    locked: 0
